@@ -1,0 +1,30 @@
+--------1---------
+Name: KK Regular Tea, Price: 250
+Status: false
+Weight: 100, Tea Bags: 50
+--------2---------
+Total Sales: 0
+KK Regular Tea: 0
+--------3---------
+--------4---------
+Name: KK Regular Tea, Price: 470
+Status: true
+Weight: 200, Tea Bags: 100
+--------5---------
+Total Sales: 2
+KK Regular Tea: 2
+--------6---------
+--------7---------
+Name: KK Jasmine Tea, Price: 260
+Status: false
+Weight: 100, Tea Bags: 50
+--------8---------
+Name: KK Honey Lemon Tea, Price: 270
+Status: false
+Weight: 90, Tea Bags: 45
+--------9---------
+--------10---------
+Total Sales: 5
+KK Regular Tea: 2
+KK Flavoured Tea: 3
+
